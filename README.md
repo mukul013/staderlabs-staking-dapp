@@ -1,2 +1,2 @@
-# straderlabs-staking-dapp
+# staderlabs-staking-dapp
  
